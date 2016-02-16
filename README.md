@@ -1,2 +1,2 @@
 # JOUR407Homework
-My homework for JOUR407
+My agate homework for JOUR407
